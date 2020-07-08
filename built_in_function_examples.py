@@ -1,5 +1,6 @@
 # return random integer between int a and int b
 import random
+import pyperclip
 print(random.randint(0,9))
 
 # can import multiple builtin functions on one line
